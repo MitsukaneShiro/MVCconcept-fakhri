@@ -5,4 +5,8 @@ class Home {
   {
     echo 'home/index';
   }
+  public function page()
+  {
+    echo 'home/page';
+  }
 }
